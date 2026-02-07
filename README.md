@@ -1,3 +1,3 @@
 # Curso-typescript-OrientadoObjetos
-![](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/db213bc4-2f87-4d4c-9a97-b2472163546a" />
+<img width="1004" height="250" alt="ts-lettermark-blue" src="https://github.com/user-attachments/assets/aaac637b-dd78-4342-92f0-0f041775eda3" />
+
