@@ -1,3 +1,5 @@
 # Curso-typescript-OrientadoObjetos
 <img width="1004" height="250" alt="ts-lettermark-blue" src="https://github.com/user-attachments/assets/aaac637b-dd78-4342-92f0-0f041775eda3" />
 
+[mis vidios] (https://www.youtube.com/watch?v=5XUAQqlYMw0&list=PLzA2VyZwsq__tcg5_rW6Ozp4hLYzrtXGX)
+
